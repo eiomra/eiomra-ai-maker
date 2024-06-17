@@ -1,0 +1,89 @@
+.aibox
+{  
+height: 50px; 
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 10px;
+color:#ffffffbe;
+width: 90%;
+}
+
+.dropBox { 
+cursor: pointer;  
+border-radius: 16px; 
+padding-top: 10px; 
+padding-bottom: 10px; 
+font-size: 12px;
+border: 1px dashed rgba(255, 255, 255, 0.5);
+  }
+  .dropBox.hover {
+    border-color: #666;
+  }
+
+  .addbox
+  {
+    color:#5081FF;
+    font-size: 30px;  
+
+  }
+
+.aibt
+{
+    background-color: transparent;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    border-color: transparent;
+    color:#ffffffbe;
+    
+}
+
+.aibt2
+{
+    background-color: #5081FF;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    border-color: transparent;
+    color:#ffffffbe;
+    
+}
+
+.aibte
+{
+    background-color: #9451E9;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    border-color: transparent;
+    color:#ffffffbe;
+    
+}
+
+button:disabled {
+    background-color: #ffffff79; 
+    color: #33025a8c; 
+    border-color: transparent;
+    cursor: not-allowed; 
+}
+
+.aiboxw
+{  
+height: 30px; 
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 10px;
+ 
+width: 70%;
+}
+
+.sep
+{
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 10px;
+  width: 80%;
+  color:#ffffffbe; 
+} 
+
+
+
+
+
