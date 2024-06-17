@@ -20,10 +20,8 @@ This project enables you to create a chatbot using TensorFlow.js and Universal S
 
 == Dataset Format ==
 
-The dataset should consist of question-answer pairs in JSON format. Example:
-
-```json
-// Example dataset.json
+The dataset should consist of question-answer pairs in JSON format.
+Example dataset.json
 [
     {
         "question": "What is the capital of France?",
